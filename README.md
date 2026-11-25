@@ -17,7 +17,7 @@ curl -fsSL https://raw.githubusercontent.com/my-perfect-system/mps-terminal-kitt
 ```
 
 All methods deploy `config/kitty` to the current user's `~/.config/kitty`. One
-clone per host (`${MPS_REPO_DIR:-/srv/repo/github/my-perfect-system}`), shared
+clone per host (`${MPS_REPO_DIR:-/srv/repo/github/my-perfect-system/mps}`), shared
 by all users.
 
 ## Usage
